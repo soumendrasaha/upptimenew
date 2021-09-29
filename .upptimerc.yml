@@ -10,7 +10,7 @@ sites:
     url: https://www.getdocsocks.com/test-upptime
 
 status-website:
-  baseUrl: /testupptime # where "repo" is your repository name
+  baseUrl: /upptimenew # where "repo" is your repository name
   name: Real Steve- Website Status
 
 
