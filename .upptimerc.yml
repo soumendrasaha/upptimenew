@@ -13,6 +13,3 @@ status-website:
   baseUrl: /upptimenew # where "repo" is your repository name
   name: Real Steve- Website Status
 
-
-workflowSchedule:
-  uptime: "*/5 * * * *"
