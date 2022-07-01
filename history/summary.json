@@ -13,7 +13,7 @@
     "time": 145,
     "timeDay": 378,
     "timeWeek": 134,
-    "timeMonth": 155,
+    "timeMonth": 158,
     "timeYear": 145,
     "dailyMinutesDown": {}
   },
@@ -24,17 +24,17 @@
     "slug": "get-doc-socks-test",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "94.59%",
-    "uptimeWeek": "99.23%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "95.13%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.97%",
     "time": 394,
     "timeDay": 204,
     "timeWeek": 246,
-    "timeMonth": 276,
+    "timeMonth": 277,
     "timeYear": 394,
     "dailyMinutesDown": {
-      "2022-06-30": 78,
+      "2022-06-30": 70,
       "2022-06-21": 34
     }
   }
