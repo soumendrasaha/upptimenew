@@ -22,9 +22,9 @@
     "url": "https://www.getdocsocks.com/test-upptime",
     "icon": "https://icons.duckduckgo.com/ip3/www.getdocsocks.com.ico",
     "slug": "get-doc-socks-test",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -34,6 +34,7 @@
     "timeMonth": 274,
     "timeYear": 355,
     "dailyMinutesDown": {
+      "2023-01-29": 0,
       "2022-06-30": 70,
       "2022-06-21": 34
     }
