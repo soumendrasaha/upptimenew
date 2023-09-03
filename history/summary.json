@@ -15,7 +15,9 @@
     "timeWeek": 150,
     "timeMonth": 147,
     "timeYear": 148,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-03": 0
+    }
   },
   {
     "name": "GetDocSocks-Test",
@@ -23,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.getdocsocks.com.ico",
     "slug": "get-doc-socks-test",
     "status": "down",
-    "uptime": "77.87%",
+    "uptime": "77.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "57.36%",
+    "uptimeYear": "57.34%",
     "time": 259,
     "timeDay": 144,
     "timeWeek": 126,
     "timeMonth": 99,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2023-09-03": 74,
+      "2023-09-03": 156,
       "2023-09-02": 1440,
       "2023-09-01": 1440,
       "2023-08-31": 1440,
