@@ -6,18 +6,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 155,
     "timeDay": 278,
     "timeWeek": 192,
     "timeMonth": 171,
     "timeYear": 145,
-    "dailyMinutesDown": {
-      "2023-10-11": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "GetDocSocks-Test",
@@ -29,14 +27,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "46.69%",
+    "uptimeYear": "46.67%",
     "time": 243,
     "timeDay": 115,
     "timeWeek": 103,
     "timeMonth": 95,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2023-10-11": 1423,
+      "2023-10-12": 70,
+      "2023-10-11": 1440,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
