@@ -4,18 +4,20 @@
     "url": "http://google.com/",
     "icon": "https://icons.duckduckgo.com/ip3/google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 140,
-    "timeDay": 169,
-    "timeWeek": 209,
-    "timeMonth": 177,
+    "timeDay": 150,
+    "timeWeek": 199,
+    "timeMonth": 175,
     "timeYear": 141,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-01": 0
+    }
   },
   {
     "name": "GetDocSocks-Test",
@@ -23,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.getdocsocks.com.ico",
     "slug": "get-doc-socks-test",
     "status": "down",
-    "uptime": "58.00%",
+    "uptime": "57.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -34,7 +36,7 @@
     "timeMonth": 98,
     "timeYear": 93,
     "dailyMinutesDown": {
-      "2024-05-01": 80,
+      "2024-05-01": 873,
       "2024-04-30": 1440,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
