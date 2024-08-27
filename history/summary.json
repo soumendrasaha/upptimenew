@@ -6,17 +6,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 141,
-    "timeDay": 174,
-    "timeWeek": 141,
+    "timeDay": 173,
+    "timeWeek": 123,
     "timeMonth": 109,
     "timeYear": 139,
     "dailyMinutesDown": {
-      "2024-08-26": 6,
       "2024-05-01": 49
     }
   },
@@ -26,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.getdocsocks.com.ico",
     "slug": "get-doc-socks-test",
     "status": "down",
-    "uptime": "51.58%",
+    "uptime": "51.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 104,
-    "timeDay": 85,
-    "timeWeek": 107,
-    "timeMonth": 111,
-    "timeYear": 97,
+    "timeDay": 94,
+    "timeWeek": 111,
+    "timeMonth": 110,
+    "timeYear": 98,
     "dailyMinutesDown": {
-      "2024-08-26": 939,
+      "2024-08-27": 94,
+      "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
       "2024-08-23": 1440,
@@ -400,8 +400,7 @@
       "2023-09-01": 1440,
       "2023-08-31": 1440,
       "2023-08-30": 1440,
-      "2023-08-29": 1440,
-      "2023-08-28": 1440
+      "2023-08-29": 1440
     }
   }
 ]
