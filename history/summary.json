@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 139,
-    "timeDay": 87,
-    "timeWeek": 90,
-    "timeMonth": 104,
+    "timeDay": 90,
+    "timeWeek": 88,
+    "timeMonth": 105,
     "timeYear": 134,
     "dailyMinutesDown": {
       "2024-05-01": 49
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.getdocsocks.com.ico",
     "slug": "get-doc-socks-test",
     "status": "down",
-    "uptime": "50.56%",
+    "uptime": "50.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 97,
-    "timeDay": 117,
-    "timeWeek": 116,
-    "timeMonth": 113,
+    "timeDay": 155,
+    "timeWeek": 115,
+    "timeMonth": 115,
     "timeYear": 98,
     "dailyMinutesDown": {
-      "2024-09-17": 76,
+      "2024-09-18": 97,
+      "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
@@ -399,8 +400,7 @@
       "2023-09-23": 1440,
       "2023-09-22": 1440,
       "2023-09-21": 1440,
-      "2023-09-20": 1440,
-      "2023-09-19": 1440
+      "2023-09-20": 1440
     }
   }
 ]
