@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 123,
-    "timeDay": 65,
-    "timeWeek": 168,
-    "timeMonth": 137,
+    "timeDay": 80,
+    "timeWeek": 155,
+    "timeMonth": 135,
     "timeYear": 127,
     "dailyMinutesDown": {
       "2024-05-01": 49
@@ -26,17 +26,17 @@
     "slug": "get-doc-socks-test",
     "status": "up",
     "uptime": "98.54%",
-    "uptimeDay": "97.20%",
-    "uptimeWeek": "98.37%",
-    "uptimeMonth": "38.60%",
+    "uptimeDay": "97.60%",
+    "uptimeWeek": "98.43%",
+    "uptimeMonth": "38.53%",
     "uptimeYear": "94.88%",
-    "time": 130,
-    "timeDay": 193,
+    "time": 131,
+    "timeDay": 181,
     "timeWeek": 171,
-    "timeMonth": 178,
+    "timeMonth": 177,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2025-03-30": 41,
+      "2025-03-30": 35,
       "2025-03-29": 22,
       "2025-03-27": 15,
       "2025-03-26": 34,
@@ -61,7 +61,7 @@
       "2025-03-05": 1420,
       "2025-03-04": 1369,
       "2025-03-03": 1408,
-      "2025-03-02": 656
+      "2025-03-02": 691
     }
   }
 ]
