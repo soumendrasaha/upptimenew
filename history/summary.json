@@ -26,17 +26,17 @@
     "slug": "get-doc-socks-test",
     "status": "up",
     "uptime": "98.68%",
-    "uptimeDay": "94.12%",
-    "uptimeWeek": "97.13%",
-    "uptimeMonth": "52.12%",
-    "uptimeYear": "95.36%",
+    "uptimeDay": "94.52%",
+    "uptimeWeek": "97.19%",
+    "uptimeMonth": "52.42%",
+    "uptimeYear": "95.35%",
     "time": 143,
     "timeDay": 225,
     "timeWeek": 298,
     "timeMonth": 199,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2025-04-06": 85,
+      "2025-04-06": 79,
       "2025-04-05": 96,
       "2025-04-04": 72,
       "2025-04-02": 17,
@@ -64,7 +64,7 @@
       "2025-03-07": 1428,
       "2025-03-06": 1368,
       "2025-03-05": 1420,
-      "2025-03-04": 662
+      "2025-03-04": 713
     }
   }
 ]
