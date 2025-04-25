@@ -24,19 +24,19 @@
     "url": "https://www.getdocsocks.com/test-upptime",
     "icon": "https://icons.duckduckgo.com/ip3/www.getdocsocks.com.ico",
     "slug": "get-doc-socks-test",
-    "status": "up",
-    "uptime": "99.06%",
-    "uptimeDay": "96.75%",
-    "uptimeWeek": "97.45%",
-    "uptimeMonth": "97.62%",
-    "uptimeYear": "96.63%",
+    "status": "down",
+    "uptime": "99.05%",
+    "uptimeDay": "97.14%",
+    "uptimeWeek": "97.50%",
+    "uptimeMonth": "97.63%",
+    "uptimeYear": "96.61%",
     "time": 147,
-    "timeDay": 308,
+    "timeDay": 341,
     "timeWeek": 215,
     "timeMonth": 210,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2025-04-25": 47,
+      "2025-04-25": 41,
       "2025-04-23": 21,
       "2025-04-22": 17,
       "2025-04-21": 134,
@@ -72,7 +72,7 @@
       "2025-03-12": 1400,
       "2025-03-11": 1395,
       "2025-03-10": 1426,
-      "2025-03-09": 332
+      "2025-03-09": 474
     }
   }
 ]
