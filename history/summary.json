@@ -4,18 +4,19 @@
     "url": "http://google.com/",
     "icon": "https://icons.duckduckgo.com/ip3/google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 123,
-    "timeDay": 106,
-    "timeWeek": 96,
-    "timeMonth": 103,
+    "timeDay": 256,
+    "timeWeek": 135,
+    "timeMonth": 112,
     "timeYear": 122,
     "dailyMinutesDown": {
+      "2025-04-29": 0,
       "2024-05-01": 49
     }
   },
@@ -25,17 +26,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.getdocsocks.com.ico",
     "slug": "get-doc-socks-test",
     "status": "down",
-    "uptime": "99.17%",
-    "uptimeDay": "98.31%",
-    "uptimeWeek": "98.24%",
-    "uptimeMonth": "97.56%",
-    "uptimeYear": "97.03%",
+    "uptime": "99.15%",
+    "uptimeDay": "50.70%",
+    "uptimeWeek": "91.44%",
+    "uptimeMonth": "96.05%",
+    "uptimeYear": "96.95%",
     "time": 157,
-    "timeDay": 198,
-    "timeWeek": 339,
-    "timeMonth": 243,
+    "timeDay": 213,
+    "timeWeek": 346,
+    "timeMonth": 245,
     "timeYear": 166,
     "dailyMinutesDown": {
+      "2025-04-29": 686,
       "2025-04-28": 24,
       "2025-04-27": 21,
       "2025-04-26": 53,
@@ -73,7 +75,7 @@
       "2025-03-14": 1434,
       "2025-03-13": 1440,
       "2025-03-12": 1400,
-      "2025-03-11": 982
+      "2025-03-11": 738
     }
   }
 ]
